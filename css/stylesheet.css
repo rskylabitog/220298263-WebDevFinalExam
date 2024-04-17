@@ -1,0 +1,15 @@
+body{display:flex;}
+
+h1{color:blue;
+
+}
+
+nav{margin:auto;
+    flex-direction: row;}
+
+content{padding: 10px;
+    justify-content: center;
+}
+
+footer{padding: 5px;
+}
